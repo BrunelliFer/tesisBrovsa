@@ -1,0 +1,16 @@
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\bin\Debug\Brovsa.Entidades.dll.config
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\bin\Debug\Brovsa.Entidades.dll
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\bin\Debug\Brovsa.Entidades.pdb
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\bin\Debug\Brovsa.Entidades.xml
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\bin\Debug\EntityFramework.dll
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\bin\Debug\EntityFramework.xml
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\obj\Debug\Brovsa.Entidades.vbprojAssemblyReference.cache
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\obj\Debug\Brovsa.Entidades.Resources.resources
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\obj\Debug\Brovsa.Entidades.vbproj.GenerateResource.cache
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\obj\Debug\Brovsa.Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\obj\Debug\Brovsa.Entidades.vbproj.CopyComplete
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\obj\Debug\Brovsa.Entidades.dll
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\obj\Debug\Brovsa.Entidades.xml
+C:\Users\yessy\source\repos\Brovsa.Solution\Brovsa.Entidades\obj\Debug\Brovsa.Entidades.pdb
